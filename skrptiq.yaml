@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "0ead88a3-1e16-4e4d-a0fd-ce2644960b52"
+name: "revision-timetable-template"
+display_name: "Revision Timetable Template"
+description: "Reusable template for building a personalised revision timetable with spaced repetition scheduling"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-revision-timetable-template"
+category: "shared"
+tags:
+  - "shared"
+  - "asset"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 1
+  total: 1
