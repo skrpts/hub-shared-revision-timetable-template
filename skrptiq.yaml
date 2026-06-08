@@ -3,7 +3,7 @@ id: "71b597d2-dd10-432b-9e61-c237cf32e758"
 name: "revision-timetable-template"
 display_name: "Revision Timetable Template"
 description: "Reusable template for building a personalised revision timetable with spaced repetition scheduling"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "asset"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
